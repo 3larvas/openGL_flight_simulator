@@ -1,5 +1,5 @@
 # Flight Simulator(openGL)
-![ex_screenshot](md_img/main.png)
+![ex_screenshot](md_img/main.png)   
 Inha Univ   
 Infomatioin and communication engineering   
 Computer Graphics(Park In Kyu)   
@@ -26,7 +26,7 @@ Mini project
 ## Refer this ppt(KOR)
 * [Download](https://drive.google.com/file/d/1eq5eOkZ9wog9VCkEKtdcJ8B2bawBQS9c/view?usp=sharing) - about this program
 
-## Refer this setting   
+## Refer this setting
 you need to download freeglut.
 ![ex_screenshot](md_img/set1.png)
 ![ex_screenshot](md_img/set2.png)
