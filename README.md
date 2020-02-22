@@ -1,5 +1,5 @@
 # Flight Simulator(openGL)
-![ex_screenshot](md_img/main.png = 500x385)
+![ex_screenshot](md_img/main.png){:height="500px" width="385px"}.
 Inha Univ   
 Infomatioin and communication engineering   
 Computer Graphics(Park In Kyu)   
