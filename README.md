@@ -24,7 +24,7 @@ Mini project
 ![ex_screenshot](md_img/interface2.png)
 
 ## Refer this ppt(KOR)
-* [Download]https://drive.google.com/file/d/1eq5eOkZ9wog9VCkEKtdcJ8B2bawBQS9c/view?usp=sharing - about this program
+* [Download](https://drive.google.com/file/d/1eq5eOkZ9wog9VCkEKtdcJ8B2bawBQS9c/view?usp=sharing) - about this program
 
 ## Refer this setting   
 you need to download freeglut.
