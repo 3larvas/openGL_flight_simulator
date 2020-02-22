@@ -1,5 +1,5 @@
 # Flight Simulator(openGL)
-![ex_screenshot](md_img/main.png){:height="500px" width="385px"}.
+![ex_screenshot](md_img/main.png)
 Inha Univ   
 Infomatioin and communication engineering   
 Computer Graphics(Park In Kyu)   
