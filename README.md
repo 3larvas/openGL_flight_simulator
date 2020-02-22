@@ -1,5 +1,5 @@
 # Flight Simulator(openGL)
-![ex_screenshot](md_img/main.png)
+![ex_screenshot](md_img/main.png){: width="500" height="385"}
 Inha Univ   
 Infomatioin and communication engineering   
 Computer Graphics(Park In Kyu)   
@@ -26,7 +26,7 @@ Mini project
 
 ## Refer this setting   
 you need to download freeglut.
-![ex_screenshot](md_img/setting1.png)
-![ex_screenshot](md_img/setting2.png)
-![ex_screenshot](md_img/setting3.png)
+![ex_screenshot](md_img/set1.png)
+![ex_screenshot](md_img/set2.png)
+![ex_screenshot](md_img/set3.png)
 
